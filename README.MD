@@ -14,5 +14,3 @@ This repository hosts official build artifacts, release notes, and version histo
 The Katch desktop application utilizes this repository to check for updates. When a new release is published here, the application detects the new version and facilitates the update process for end-users.
   
 ---
-
-> **Note:** This is a release-only repository. For source code and development, please visit the [main Katch repository](https://github.com/haxhiuurim/Katch).
